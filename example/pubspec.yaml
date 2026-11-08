@@ -15,10 +15,10 @@ version: 1.0.0+1
 publish_to: "none" # Remove this line if you wish to publish to pub.dev
 
 environment:
-  sdk: ">=3.8.1 <=4.0.0"
+  sdk: ">=3.13.1 <=4.0.0"
 
 dependencies:
-  dio: ^5.8.0+1
+  dio: ^5.11.1
   dropdown_search:
     path: ../
   flutter:
